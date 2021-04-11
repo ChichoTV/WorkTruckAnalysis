@@ -1,0 +1,8 @@
+ipywidgets
+numpy
+pandas
+matplotlib
+plotly
+voila
+voila-material
+sklearn
